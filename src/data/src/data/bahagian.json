@@ -1,0 +1,559 @@
+{
+  "bahagian": [
+    {
+      "huruf": "I",
+      "tajuk": "Permulaan",
+      "seksyen": [
+        {
+          "nombor": "1",
+          "status": "aktif"
+        },
+        {
+          "nombor": "2",
+          "status": "aktif"
+        },
+        {
+          "nombor": "3",
+          "status": "dipotong"
+        }
+      ],
+      "sudah_diekstrak": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "huruf": "II",
+      "tajuk": "Pendaftaran",
+      "seksyen": [
+        {
+          "nombor": "4",
+          "status": "aktif"
+        },
+        {
+          "nombor": "5",
+          "status": "aktif"
+        },
+        {
+          "nombor": "6",
+          "status": "aktif"
+        },
+        {
+          "nombor": "7",
+          "status": "aktif"
+        },
+        {
+          "nombor": "8",
+          "status": "aktif"
+        },
+        {
+          "nombor": "9",
+          "status": "aktif"
+        },
+        {
+          "nombor": "10",
+          "status": "aktif"
+        },
+        {
+          "nombor": "10A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "10B",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": [
+        "4"
+      ]
+    },
+    {
+      "huruf": "III",
+      "tajuk": "Kewajipan Dan Keistimewaan Koperasi",
+      "seksyen": [
+        {
+          "nombor": "11",
+          "status": "aktif"
+        },
+        {
+          "nombor": "12",
+          "status": "aktif"
+        },
+        {
+          "nombor": "13",
+          "status": "aktif"
+        },
+        {
+          "nombor": "14",
+          "status": "aktif"
+        },
+        {
+          "nombor": "15",
+          "status": "aktif"
+        },
+        {
+          "nombor": "16",
+          "status": "aktif"
+        },
+        {
+          "nombor": "17",
+          "status": "aktif"
+        },
+        {
+          "nombor": "17A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "18",
+          "status": "aktif"
+        },
+        {
+          "nombor": "18A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "19",
+          "status": "aktif"
+        },
+        {
+          "nombor": "19A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "20",
+          "status": "dipotong"
+        },
+        {
+          "nombor": "21",
+          "status": "aktif"
+        },
+        {
+          "nombor": "22",
+          "status": "aktif"
+        },
+        {
+          "nombor": "23",
+          "status": "aktif"
+        },
+        {
+          "nombor": "24",
+          "status": "aktif"
+        },
+        {
+          "nombor": "25",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": []
+    },
+    {
+      "huruf": "IV",
+      "tajuk": "Hak Dan Liabiliti Anggota",
+      "seksyen": [
+        {
+          "nombor": "26",
+          "status": "aktif"
+        },
+        {
+          "nombor": "27",
+          "status": "aktif"
+        },
+        {
+          "nombor": "28",
+          "status": "aktif"
+        },
+        {
+          "nombor": "29",
+          "status": "dipotong"
+        },
+        {
+          "nombor": "30",
+          "status": "aktif"
+        },
+        {
+          "nombor": "31",
+          "status": "aktif"
+        },
+        {
+          "nombor": "32",
+          "status": "aktif"
+        },
+        {
+          "nombor": "33",
+          "status": "aktif"
+        },
+        {
+          "nombor": "34",
+          "status": "aktif"
+        },
+        {
+          "nombor": "34A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "35",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": [
+        "26"
+      ]
+    },
+    {
+      "huruf": "V",
+      "tajuk": "Organisasi Dan Pengurusan Koperasi Berdaftar",
+      "seksyen": [
+        {
+          "nombor": "36",
+          "status": "aktif"
+        },
+        {
+          "nombor": "37",
+          "status": "aktif"
+        },
+        {
+          "nombor": "38",
+          "status": "aktif"
+        },
+        {
+          "nombor": "39",
+          "status": "aktif"
+        },
+        {
+          "nombor": "40",
+          "status": "aktif"
+        },
+        {
+          "nombor": "41",
+          "status": "aktif"
+        },
+        {
+          "nombor": "42",
+          "status": "aktif"
+        },
+        {
+          "nombor": "42A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "43",
+          "status": "aktif"
+        },
+        {
+          "nombor": "44",
+          "status": "aktif"
+        },
+        {
+          "nombor": "44A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "44B",
+          "status": "aktif"
+        },
+        {
+          "nombor": "45",
+          "status": "aktif"
+        },
+        {
+          "nombor": "46",
+          "status": "aktif"
+        },
+        {
+          "nombor": "47",
+          "status": "aktif"
+        },
+        {
+          "nombor": "48",
+          "status": "aktif"
+        },
+        {
+          "nombor": "49",
+          "status": "dipotong"
+        }
+      ],
+      "sudah_diekstrak": []
+    },
+    {
+      "huruf": "VI",
+      "tajuk": "Harta Dan Wang Koperasi",
+      "seksyen": [
+        {
+          "nombor": "50",
+          "status": "aktif"
+        },
+        {
+          "nombor": "51",
+          "status": "aktif"
+        },
+        {
+          "nombor": "52",
+          "status": "aktif"
+        },
+        {
+          "nombor": "52A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "53",
+          "status": "aktif"
+        },
+        {
+          "nombor": "54",
+          "status": "aktif"
+        },
+        {
+          "nombor": "54A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "55",
+          "status": "aktif"
+        },
+        {
+          "nombor": "56",
+          "status": "aktif"
+        },
+        {
+          "nombor": "57",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": [
+        "57"
+      ]
+    },
+    {
+      "huruf": "VII",
+      "tajuk": "Akaun Dan Audit",
+      "seksyen": [
+        {
+          "nombor": "58",
+          "status": "aktif"
+        },
+        {
+          "nombor": "59",
+          "status": "aktif"
+        },
+        {
+          "nombor": "60",
+          "status": "aktif"
+        },
+        {
+          "nombor": "61",
+          "status": "aktif"
+        },
+        {
+          "nombor": "62",
+          "status": "aktif"
+        },
+        {
+          "nombor": "63",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": []
+    },
+    {
+      "huruf": "VIII",
+      "tajuk": "Pemeriksaan, Siasatan, Pembubaran Dan Pertikaian",
+      "seksyen": [
+        {
+          "nombor": "64",
+          "status": "aktif"
+        },
+        {
+          "nombor": "65",
+          "status": "aktif"
+        },
+        {
+          "nombor": "66",
+          "status": "aktif"
+        },
+        {
+          "nombor": "67",
+          "status": "aktif"
+        },
+        {
+          "nombor": "68",
+          "status": "aktif"
+        },
+        {
+          "nombor": "69",
+          "status": "aktif"
+        },
+        {
+          "nombor": "69A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "69B",
+          "status": "aktif"
+        },
+        {
+          "nombor": "69C",
+          "status": "aktif"
+        },
+        {
+          "nombor": "69D",
+          "status": "aktif"
+        },
+        {
+          "nombor": "70",
+          "status": "aktif"
+        },
+        {
+          "nombor": "71",
+          "status": "aktif"
+        },
+        {
+          "nombor": "71A",
+          "status": "dipotong"
+        },
+        {
+          "nombor": "71B",
+          "status": "dipotong"
+        },
+        {
+          "nombor": "71C",
+          "status": "dipotong"
+        },
+        {
+          "nombor": "72",
+          "status": "aktif"
+        },
+        {
+          "nombor": "73",
+          "status": "aktif"
+        },
+        {
+          "nombor": "74",
+          "status": "aktif"
+        },
+        {
+          "nombor": "75",
+          "status": "aktif"
+        },
+        {
+          "nombor": "76",
+          "status": "aktif"
+        },
+        {
+          "nombor": "77",
+          "status": "aktif"
+        },
+        {
+          "nombor": "78",
+          "status": "aktif"
+        },
+        {
+          "nombor": "79",
+          "status": "aktif"
+        },
+        {
+          "nombor": "80",
+          "status": "aktif"
+        },
+        {
+          "nombor": "81",
+          "status": "aktif"
+        },
+        {
+          "nombor": "82",
+          "status": "aktif"
+        },
+        {
+          "nombor": "83",
+          "status": "aktif"
+        },
+        {
+          "nombor": "84",
+          "status": "aktif"
+        },
+        {
+          "nombor": "84A",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": []
+    },
+    {
+      "huruf": "IX",
+      "tajuk": "Pelbagai",
+      "seksyen": [
+        {
+          "nombor": "85",
+          "status": "aktif"
+        },
+        {
+          "nombor": "85A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "86",
+          "status": "aktif"
+        },
+        {
+          "nombor": "86A",
+          "status": "aktif"
+        },
+        {
+          "nombor": "86B",
+          "status": "aktif"
+        },
+        {
+          "nombor": "87",
+          "status": "aktif"
+        },
+        {
+          "nombor": "88",
+          "status": "aktif"
+        },
+        {
+          "nombor": "89",
+          "status": "dipotong"
+        },
+        {
+          "nombor": "90",
+          "status": "aktif"
+        },
+        {
+          "nombor": "91",
+          "status": "aktif"
+        },
+        {
+          "nombor": "92",
+          "status": "aktif"
+        },
+        {
+          "nombor": "93",
+          "status": "aktif"
+        },
+        {
+          "nombor": "93A",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": []
+    },
+    {
+      "huruf": "X",
+      "tajuk": "Pemansuhan, Kecualian Dan Peralihan",
+      "seksyen": [
+        {
+          "nombor": "94",
+          "status": "aktif"
+        },
+        {
+          "nombor": "95",
+          "status": "aktif"
+        },
+        {
+          "nombor": "96",
+          "status": "aktif"
+        }
+      ],
+      "sudah_diekstrak": []
+    }
+  ]
+}
