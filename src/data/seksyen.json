@@ -1,0 +1,176 @@
+{
+  "akta": "Akta Koperasi 1993",
+  "akta_nombor": "Akta 502",
+  "pindaan": "Muktamad 1.10.2021",
+  "status_data": "SAMPEL 5 SEKSYEN — belum lengkap (1, 2, 4, 26, 57)",
+  "nota": "RUJUKAN TIDAK RASMI. Teks diekstrak secara automatik daripada PDF sumber. Semak dengan dokumen asal di docs/sumber/ sebelum digunakan.",
+  "format_medan": [
+    "nombor",
+    "bahagian",
+    "tajuk",
+    "status",
+    "halaman_pdf",
+    "halaman_tamat_pdf",
+    "kata_kunci",
+    "subseksyen",
+    "teks"
+  ],
+  "seksyen": [
+    {
+      "nombor": "1",
+      "bahagian": "I",
+      "tajuk": "Tajuk ringkas dan permulaan kuat kuasa",
+      "status": "aktif",
+      "halaman_pdf": 9,
+      "halaman_tamat_pdf": 9,
+      "kata_kunci": [
+        "tajuk ringkas",
+        "kuat kuasa",
+        "Menteri",
+        "Warta"
+      ],
+      "subseksyen": [
+        {
+          "nombor": "1(2)",
+          "teks": "(2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan\noleh Menteri melalui pemberitahuan yang disiarkan dalam Warta, dan Menteri\nboleh menetapkan tarikh yang berlainan bagi mula berkuat kuasanya Akta ini\ndi bahagian-bahagian yang berlainan di Malaysia atau bagi mula\nberkuatkuasanya peruntukan yang berlainan dalam Akta ini."
+        }
+      ],
+      "teks": "1. (1) Akta ini bolehlah dinamakan Akta Koperasi 1993.\n  (2) Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan\noleh Menteri melalui pemberitahuan yang disiarkan dalam Warta, dan Menteri\nboleh menetapkan tarikh yang berlainan bagi mula berkuat kuasanya Akta ini\ndi bahagian-bahagian yang berlainan di Malaysia atau bagi mula\nberkuatkuasanya peruntukan yang berlainan dalam Akta ini."
+    },
+    {
+      "nombor": "2",
+      "bahagian": "I",
+      "tajuk": "Tafsiran",
+      "status": "aktif",
+      "halaman_pdf": 10,
+      "halaman_tamat_pdf": 16,
+      "kata_kunci": [
+        "anggota",
+        "cawangan",
+        "deposit",
+        "dividen",
+        "harta",
+        "honorarium",
+        "koperasi",
+        "Lembaga",
+        "pegawai",
+        "syer",
+        "yuran",
+        "undang-undang kecil"
+      ],
+      "subseksyen": [],
+      "teks": "2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang\nlain—\n  “anggota” termasuklah seseorang atau sesuatu koperasi yang turut sama\ndalam permohonan pendaftaran sesuatu koperasi dan yang telah\nmenandatangani minit mesyuarat agung permulaan koperasi itu dan seseorang\natau sesuatu koperasi yang diterima menjadi anggota koperasi mengikut\nperaturan-peraturan dan undang-undang kecilnya selepas pendaftaran;\n  “cawangan” termasuklah pejabat berdaftar koperasi, suatu pejabat, suatu\nagensi, suatu pangkalan elektronik dan termasuklah suatu tempat yang\ndiadakan dan disenggarakan bagi apa-apa tempoh masa untuk menjalankan\nurusan koperasi;\n “deposit” ertinya suatu jumlah wang yang—\n       (a) diterima atau dibayar atas terma yang kena dibayar balik, dengan\n           atau tanpa pulangan atau faedah atau dengan suatu premium atau\n           diskaun; atau\n       (b) diterima atau dibayar atas terma yang kena dibayar balik, sama ada\n           keseluruhannya atau sebahagiannya, dengan apa-apa balasan\n           berupa wang atau nilaian wang,\ndan pembayaran balik itu adalah sama ada atas permintaan atau pada suatu\nmasa atau mengikut hal keadaan yang dipersetujui oleh atau bagi pihak orang\nyang membuat pembayaran itu dan orang yang menerimanya, tidak kira sama\nada transaksi itu diperihalkan sebagai suatu pinjaman, pendahuluan,\npelaburan, simpanan, jualan atau jualan dan belian semula, tetapi tidak\ntermasuk wang yang dibayar secara bona fide—\n        (i) dengan cara suatu pendahuluan atau suatu pembayaran\n            sebahagian di bawah suatu kontrak bagi jualan, sewaan atau\n            peruntukan lain harta atau perkhidmatan, dan kena dibayar balik\n            hanya dalam keadaan bahawa harta atau perkhidmatan itu tidak\n            sebenarnya dijual, disewa atau selainnya diperuntukkan;\n       (ii)   dengan cara jaminan bagi pelaksanaan suatu kontrak atau dengan\n              cara jaminan berkenaan dengan apa-apa kerugian yang mungkin\n              berbangkit daripada ketidaklaksanaan sesuatu kontrak; dan\n       (iii) tanpa menjejaskan subperenggan (ii), dengan cara jaminan bagi\n             penyerahan atau pemulangan apa-apa harta, sama ada dalam\n             suatu keadaan baik yang tertentu atau selainnya,\ndan hendaklah termasuk wang yang didepositkan oleh mana-mana orang\ndengan sesuatu koperasi dalam suatu akaun deposit tetap atau akaun simpanan\natau akaun deposit lain tetapi tidak termasuk suatu syer, yuran atau simpanan\nkhusus;\n  “ditentukan”, jika tiada cara disebutkan, ertinya ditentukan dari semasa ke\nsemasa secara bertulis, dan suatu kuasa untuk menentukan termasuklah kuasa\nuntuk menentukan secara berlainan bagi orang, kelas, kategori atau perihalan\norang yang berlainan;\n  “ditetapkan”, jika tiada cara disebutkan, ertinya ditetapkan dari semasa ke\nsemasa melalui perintah yang disiarkan dalam Warta, dan suatu kuasa untuk\nmenetapkan termasuklah kuasa untuk menetapkan secara berlainan bagi\norang, kelas, kategori atau perihalan orang yang berlainan;\n  “dividen” ertinya bahagian keuntungan sesuatu koperasi yang dibahagikan\ndi kalangan anggotanya mengikut kadar modal syer atau modal yuran yang\ndipegang oleh mereka;\n “dokumen” mempunyai erti yang sama seperti yang ditakrifkan dalam Akta\nKeterangan 1950 [Akta 56];\n “harta” ertinya apa-apa harta alih atau tak alih dan termasuklah—\n       (a) apa-apa hak, kepentingan, hakmilik, tuntutan, hak dalam tindakan,\n           kuasa atau keistimewaan, sama ada pada masa ini atau hadapan,\n           atau sama ada terletak hak atau kontingen, berhubung dengan apa-\n           apa harta, atau selainnya yang mempunyai nilai;\n       (b) apa-apa dokumen pemindahhakan yang disempurnakan bagi\n           memindahhakkan, menyerahhakkan, menetapkan, menyerahkan,\n           atau selainnya memindahkan atau melupuskan harta yang orang\n           yang menyempurnakan dokumen pemindahhakan itu ialah tuan\n           punya atau memiliki atau yang dia berhak kepada suatu hak yang\n           kontingen, sama ada bagi semua kepentingan atau bagi apa-apa\n           kepentingan yang kurang;\n       (c) apa-apa sekuriti, termasuk apa-apa saham, syer, debentur dan\n           kumpulan wang;\n       (d) apa-apa surat cara boleh niaga, termasuk apa-apa wang kertas\n           bank, nota pembawa, bil perbendaharaan, waran dividen, bil\n           pertukaran, nota janji hutang, cek dan sijil deposit boleh niaga;\n       (e) apa-apa gadai janji atau gadaian, sama ada menurut undang-\n           undang atau saksama, jaminan, lien atau sandaran, sama ada\n           sebenar atau konstruktif, surat hipotekasi atau resit amanah,\n           tanggung rugi, aku janji atau cara lain yang menjamin pembayaran\n           atau pelepasan suatu hutang atau liabiliti, sama ada pada masa ini\n           atau hadapan, atau sama ada terletak hak atau kontingen; dan\n       (f) apa-apa harta ketara atau tidak ketara lain;\n  “honorarium” ertinya suatu bahagian keuntungan bersih teraudit koperasi\nyang diagihkan antara beberapa atau semua anggota Lembaga sebagai balasan\nbagi perkhidmatan mereka yang lazimnya tidak diberi saraan;\n “kanak-kanak” mempunyai erti yang sama seperti yang ditakrifkan dalam\nAkta Kanak-Kanak 2001 [Akta 611];\n  “kemudahan kredit” mempunyai erti yang sama seperti yang ditakrifkan\ndalam Akta Suruhanjaya Koperasi Malaysia 2007 [Akta 665];\n  “kesalahan boleh daftar” ertinya kesalahan yang boleh didaftarkan di bawah\nAkta Pendaftaran Penjenayah dan Orang Yang Tidak Diingini 1969 [Akta 7]\nsebagaimana yang dinyatakan dalam Jadual Pertama dan Kedua kepada Akta\nitu;\n  “ketua pegawai eksekutif”, berhubung dengan suatu koperasi, ertinya\nseseorang dengan apa jua nama dipanggil yang, sama ada secara individu atau\nbersesama dengan seorang lain atau lebih bertanggungjawab, tertakluk pada\nkuasa Lembaga, bagi perjalanan urusan dan aktiviti koperasi;\n  “koperasi” ertinya suatu pertubuhan orang berautonomi yang bersatu secara\nsukarela untuk memenuhi keperluan dan aspirasi ekonomi, sosial dan budaya\nmereka yang sama melalui suatu perusahaan milik bersama dan dikawal secara\ndemokrasi yang berdaftar di bawah Akta ini;\n  “koperasi asas” ertinya koperasi sebagaimana yang diperuntukkan di bawah\nsubseksyen 4(1);\n  “koperasi atasan” ertinya koperasi sebagaimana yang diperuntukkan di\nbawah subseksyen 4(3);\n  “koperasi ditetapkan” ertinya suatu koperasi yang ditetapkan oleh\nSuruhanjaya melalui perintah secara bertulis mengikut kelas, kategori, jenis,\naktiviti dan perihalan koperasi itu;\n  “koperasi menengah” ertinya koperasi sebagaimana yang diperuntukkan di\nbawah subseksyen 4(2);\n  “Kumpulan Wang Rizab Statutori” ertinya suatu kumpulan wang yang\ndisenggara oleh tiap-tiap koperasi menurut subseksyen 57(1) daripada\nkeuntungan bersih teraudit setiap tahun;\n  “Lembaga” ertinya badan pengelola sesuatu koperasi yang kepadanya\npengurusan hal ehwal koperasi itu diamanahkan;\n  “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab\nbagi pembangunan koperasi;\n  “mesyuarat agung permulaan” ertinya mesyuarat agung yang padanya orang\nyang berhasrat hendak menubuhkan suatu koperasi membuat ketetapan untuk\nmenubuhkan koperasi itu, untuk menerima pakai undang-undang kecil yang\ndicadangkan bagi koperasi itu dan untuk memohon supaya koperasi itu\ndidaftarkan;\n  “pegawai” berhubung dengan suatu koperasi, ertinya seorang pengerusi,\nsetiausaha, bendahari atau mana-mana anggota lain Lembaga dan\ntermasuklah—\n       (a) ketua pegawai eksekutif;\n          (b) mana-mana orang yang diberi kuasa oleh Lembaga, peraturan-\n              peraturan atau perintah atau undang-undang kecil untuk memberi\n              arahan berkenaan dengan urusan koperasi itu; atau\n          (c) mana-mana pekerja;\n  “pembiayaan Islam” mempunyai erti yang sama seperti yang ditakrifkan\ndalam Akta Suruhanjaya Koperasi Malaysia 2007;\n    “Pengerusi Eksekutif” ertinya Pengerusi Eksekutif Suruhanjaya;\n “peraturan-peraturan” ertinya peraturan-peraturan yang dibuat di bawah\nAkta ini;\n     “perbadanan” mempunyai erti yang sama seperti yang ditakrifkan dalam\n*\n    Akta Syarikat 1965 [Akta 125];\n  “perbadanan berkaitan” ertinya suatu subsidiari atau perbadanan bersekutu\nsesuatu koperasi atau sesuatu perbadanan bersekutu suatu subsidiari sesuatu\nkoperasi;\n  “perbadanan bersekutu” ertinya suatu perbadanan yang tidak kurang\ndaripada dua puluh peratus dan tidak lebih daripada lima puluh peratus\ndaripada syer perbadanan itu dipegang oleh suatu perbadanan lain, dengan\nperbadanan yang mula-mula disebut menjadi suatu perbadanan sekutu bagi\nperbadanan yang lain itu;\n    “pelantikan” termasuklah apa-apa pelantikan atau pelantikan semula;\n    “perwakilan” ertinya—\n          (a) wakil anggota individu, yang dipilih di mesyuarat peringkat\n              wilayah anggota sesuatu koperasi asas yang mesyuarat agung\n              anggotanya digantikan dengan mesyuarat agung perwakilan; atau\n\n*\n CATATAN―Akta Syarikat 1965 [Akta 125] telah dimansuhkan oleh Akta Syarikat 2016 [Akta 777] yang mula\nberkuat kuasa pada 31 Januari 2017―lihat subseksyen 620(1) Akta 777.\n       (b) wakil sesuatu koperasi yang juga ialah anggota suatu koperasi yang\n           lain, yang dalam mesyuarat wakil itu telah dipilih atau dilantik\n           untuk menghadirinya;\n “prinsip koperasi” termasuklah—\n       (a) keanggotaan sukarela dan terbuka;\n       (b) kawalan demokratik oleh anggota;\n       (c) penglibatan ekonomi oleh anggota;\n       (d) autonomi dan kebebasan;\n       (e) pendidikan, latihan dan maklumat;\n       (f) kerjasama antara koperasi; dan\n       (g) mengambil berat terhadap masyarakat;\n  “pulangan” termasuklah apa-apa bentuk sewaan, pulangan, dividen atau\nfaedah, termasuk apa-apa fi atau hadiah, yang kena dibayar atau akan\ndiberikan berhubung dengan apa-apa urus niaga, transaksi atau surat cara;\n  “rebat langganan” ertinya bahagian keuntungan sesuatu koperasi yang\ndibahagikan di kalangan anggotanya mengikut kadar banyaknya perniagaan\nyang dilakukan oleh mereka dengan koperasi itu dan yang daripadanya\nkeuntungan koperasi itu diperoleh;\n “sabitan” termasuklah sesuatu dapatan bersalah dan pembuktian kesalahan;\n “sekuriti” mempunyai erti yang sama seperti yang ditakrifkan dalam Akta\nSuruhanjaya Sekuriti 1993 [Akta 498];\n  “simpanan khas” ertinya wang yang didepositkan oleh seseorang anggota\ndengan suatu koperasi dengan niat nyata untuk menggunakan wang yang\ndidepositkan untuk suatu maksud yang dinyatakan yang dibenarkan di bawah\nperaturan-peraturan;\n  “subsidiari” suatu koperasi ertinya suatu syarikat, sebagaimana yang\nditakrifkan dalam Akta Syarikat 1965, yang komposisi Lembaga\nPengarahnya atau lebih daripada separuh kuasa mengundinya dikawal oleh\nkoperasi itu, atau yang lebih daripada separuh modal syer diterbitkannya\ndipegang oleh koperasi itu, dan termasuklah suatu subsidiari, sebagaimana\nyang ditakrifkan dalam Akta itu, bagi syarikat itu;\n  “Suruhanjaya” ertinya Suruhanjaya Koperasi Malaysia yang ditubuhkan di\nbawah Akta Suruhanjaya Koperasi Malaysia 2007;\n  “syer” ertinya bahagian dalam modal syer sesuatu koperasi yang\ndisumbangkan oleh seseorang anggota berkenaan dengan keanggotaannya\ndalam koperasi itu;\n  “tahun kewangan” ertinya tempoh kewangan perniagaan bagi setiap\nkoperasi sebagaimana yang diperuntukkan dalam undang-undang kecilnya;\n  “undang-undang kecil” ertinya undang-undang kecil berdaftar yang dibuat\noleh sesuatu koperasi pada menjalankan apa-apa kuasa yang diberikan oleh\nAkta ini, dan termasuklah suatu pindaan berdaftar undang-undang kecil itu;\n  “wang lebihan” ertinya , tertakluk pada peraturan-peraturan, wang yang\nmelebihi amaun yang diperlukan oleh suatu koperasi bagi kegunaan segera\nsebagai modal kerja bagi perniagaannya, yang boleh didepositkan atau\ndilaburkan di luar koperasi itu tanpa menjejaskan pengendalian perniagaan itu;\n  “yuran” ertinya jumlah wang yang disumbangkan pada lat masa yang tetap\noleh seseorang anggota berkenaan dengan keanggotaannya dalam suatu\nkoperasi dan tidak boleh dikeluarkan kecuali menurut syarat yang ditetapkan\ndalam undang-undang kecil atau apabila tamat keanggotaannya."
+    },
+    {
+      "nombor": "4",
+      "bahagian": "II",
+      "tajuk": "Koperasi yang boleh didaftarkan",
+      "status": "aktif",
+      "halaman_pdf": 17,
+      "halaman_tamat_pdf": 17,
+      "kata_kunci": [
+        "koperasi asas",
+        "koperasi menengah",
+        "koperasi atasan",
+        "pendaftaran",
+        "prinsip koperasi"
+      ],
+      "subseksyen": [
+        {
+          "nombor": "4(2)",
+          "teks": "(2) Suatu pertubuhan yang terdiri daripada koperasi asas sahaja dan yang\nmatlamatnya adalah untuk memudahkan penjalanan koperasi sedemikian\nboleh didaftarkan di bawah Akta ini sebagai suatu koperasi menengah."
+        },
+        {
+          "nombor": "4(3)",
+          "teks": "(3) Suatu pertubuhan yang terdiri daripada koperasi menengah sahaja atau\nkoperasi menengah dan asas dan yang matlamatnya adalah untuk\nmemudahkan penjalanan koperasi sedemikian boleh didaftarkan di bawah\nAkta ini sebagai suatu koperasi atasan."
+        }
+      ],
+      "teks": "4. (1) Suatu pertubuhan yang terdiri daripada orang individu sahaja dan yang\nmatlamatnya adalah untuk meningkatkan kepentingan ekonomi anggotanya\nmengikut prinsip koperasi boleh didaftarkan di bawah Akta ini sebagai suatu\nkoperasi asas.\n  (2) Suatu pertubuhan yang terdiri daripada koperasi asas sahaja dan yang\nmatlamatnya adalah untuk memudahkan penjalanan koperasi sedemikian\nboleh didaftarkan di bawah Akta ini sebagai suatu koperasi menengah.\n  (3) Suatu pertubuhan yang terdiri daripada koperasi menengah sahaja atau\nkoperasi menengah dan asas dan yang matlamatnya adalah untuk\nmemudahkan penjalanan koperasi sedemikian boleh didaftarkan di bawah\nAkta ini sebagai suatu koperasi atasan."
+    },
+    {
+      "nombor": "26",
+      "bahagian": "IV",
+      "tajuk": "Kelayakan untuk menjadi anggota",
+      "status": "aktif",
+      "halaman_pdf": 31,
+      "halaman_tamat_pdf": 31,
+      "kata_kunci": [
+        "kelayakan",
+        "warganegara",
+        "18 tahun",
+        "koperasi sekolah",
+        "keanggotaan"
+      ],
+      "subseksyen": [],
+      "teks": "26. Untuk layak menjadi anggota dalam suatu koperasi asas, seseorang\nmestilah—\n       (a) seorang warganegara Malaysia;\n       (b) telah mencapai umur lapan belas tahun atau, dalam hal suatu\n           koperasi sekolah, telah mencapai umur dua belas tahun; dan\n       (c) bermastautin atau bekerja atau mempunyai tanah dalam kawasan\n           operasi koperasi asas itu, atau, dalam hal koperasi sekolah, menjadi\n           penuntut berdaftar sekolah itu."
+    },
+    {
+      "nombor": "57",
+      "bahagian": "VI",
+      "tajuk": "Pengagihan untung bersih teraudit",
+      "status": "aktif",
+      "halaman_pdf": 48,
+      "halaman_tamat_pdf": 51,
+      "kata_kunci": [
+        "Kumpulan Wang Rizab Statutori",
+        "dividen",
+        "untung bersih",
+        "honorarium",
+        "rebat",
+        "syer bonus",
+        "Kumpulan Wang Amanah Pendidikan Koperasi"
+      ],
+      "subseksyen": [
+        {
+          "nombor": "57(1A)",
+          "teks": "(1A) Walau apa pun subseksyen (1), Suruhanjaya boleh dari semasa ke\nsemasa menentukan suatu bahagian berlainan daripada untung bersih teraudit\nbagi setiap tahun, iaitu sama ada kurang atau lebih daripada bahagian yang\nditentukan dalam subseksyen (1), untuk dipindahkan kepada Kumpulan Wang\nRizab Statutori sesuatu koperasi bagi maksud memastikan bahawa amaun\nKumpulan Wang Rizab Statutori bagi koperasi itu adalah mencukupi bagi\nmaksud perniagaannya dan memadai berhubung dengan liabiliti-liabilitinya."
+        },
+        {
+          "nombor": "57(1B)",
+          "teks": "(1B) Walau apa pun subseksyen (1), Kumpulan Wang Rizab Statutori boleh\ndigunakan—\n       (a) tertakluk pada peraturan-peraturan atau undang-undang kecil, bagi\n           membayar syer atau yuran yang dikeluarkan oleh anggota\n           koperasi; atau\n       (b) dengan kelulusan Suruhanjaya dan tertakluk pada apa-apa terma\n           dan syarat yang boleh dikenakan oleh Suruhanjaya, bagi\n           menerbitkan syer bonus kepada anggota koperasi itu."
+        },
+        {
+          "nombor": "57(1C)",
+          "teks": "(1C) Tiada apa pun dalam seksyen ini boleh memberi sesuatu koperasi\nkuasa untuk membayar dividen daripada Kumpulan Wang Rizab Statutori."
+        },
+        {
+          "nombor": "57(1D)",
+          "teks": "(1D) Kumpulan Wang Rizab Statutori tidak boleh dibahagi dan tiada\nseorang pun anggota berhak untuk menuntut suatu bahagian tertentu\ndaripadanya."
+        },
+        {
+          "nombor": "57(1E)",
+          "teks": "(1E) Kumpulan Wang Rizab Statutori hendaklah disenggara dalam suatu\nakaun yang berasingan dan hendaklah dilaburkan dalam Akaun Deposit\nKoperasi sebagaimana yang disebut dalam Akta Suruhanjaya Koperasi"
+        },
+        {
+          "nombor": "57(2)",
+          "teks": "(2) Tertakluk pada subseksyen (7), tiap-tiap koperasi hendaklah, daripada\nuntung bersih terauditnya bagi setiap tahun kewangan, sebelum\nmengisytiharkan apa-apa dividen membayar sekian jumlah wang yang\nditentukan oleh Suruhanjaya kepada—\n       (a) Kumpulan Wang Amanah Pendidikan Koperasi; dan\n       (b) Kumpulan Wang Amanah Pembangunan Koperasi bagi mana-\n           mana koperasi menengah atau atasan yang telah diisytiharkan oleh\n           Menteri sebagai badan yang mewakili pergerakan koperasi di\n           peringkat kebangsaan dan antarabangsa, yang ditubuhkan di bawah\n           peraturan-peraturan bagi memajukan prinsip koperasi."
+        },
+        {
+          "nombor": "57(3)",
+          "teks": "(3) Tiada koperasi menengah atau atasan boleh diisytiharkan di bawah\nperenggan (2)(b) sebagai badan yang mewakili pergerakan koperasi di\nperingkat kebangsaan dan antarabangsa melainkan jika—\n       (a) matlamat koperasi itu termasuklah menggalakkan prinsip koperasi\n           dan memudahkan operasi koperasi; dan\n       (b) undang-undang kecil koperasi itu membuat peruntukan bagi—\n          (i) pergabungan semua koperas itanpa apa-apa sekatan atau\n              pembayaran apa-apa fi kecuali fi masuk; dan\n         (ii) pelantikan kepada Lembaganya, oleh Menteri, sekurang-\n              kurangnya seorang wakil daripada kementerian Menteri itu,\n              dan seorang wakil daripada Kementerian Kewangan."
+        },
+        {
+          "nombor": "57(4)",
+          "teks": "(4) Bolehlah ditolak daripada jumlah yang disebut dalam subseksyen (1)\napa-apa jumlah wang yang dibayar menurut subseksyen (2)."
+        },
+        {
+          "nombor": "57(5)",
+          "teks": "(5) Tertakluk pada subseksyen (7), suatu koperasi boleh, selepas bayaran\nyang dinyatakan dalam subseksyen (1) dan (2), menggunakan untung bersih\nterauditnya bagi setiap tahun kewangan bagi semua atau mana-mana maksud\nyang berikut:\n       (a) pembayaran rebat kerana langganan;\n       (b) pembayaran dividen, atas syer dan yuran anggota koperasi\n           sebagaimana yang ditentukan oleh arahan atau garis panduan:\n            Dengan syarat bahawa, pembayaran dividen daripada mana-mana\n         sumber selain untung bersih teraudit bagi tahun kewangan itu tidak\n         boleh dibuat kecuali dengan mendapat kelulusan bertulis terlebih\n         dahulu daripada Suruhanjaya yang tidak boleh dalam mana-mana\n         hal melebihi apa-apa kadar maksimum sebagaimana yang\n         ditentukan dalam arahan atau garis panduan itu;\n       (c) pembayaran honorarium kepada anggota Lembaga koperasi itu,\n           yang tidak boleh, dalam apa-apa hal, melebihi jumlah wang yang\n           disyorkan oleh mesyuarat agung tahunan dan diluluskan oleh\n           Suruhanjaya; atau\n       (d) pembayaran untuk kebajikan anggotanya dan masyarakat."
+        },
+        {
+          "nombor": "57(6)",
+          "teks": "(6) Tiada rebat kerana langganan, dividen atas syer dan yuran boleh\ndibayar kepada anggota suatu koperasi dan tiada honorarium boleh dibayar\nkepada anggota Lembaga suatu koperasi kecuali daripada untung bersih\nteraudit koperasi itu."
+        },
+        {
+          "nombor": "57(7)",
+          "teks": "(7) Tiada koperasi boleh menggunakan untung bersihnya bagi apa-apa\nmaksud di bawah subseksyen (2) atau (5) melainkan jika dan sehingga semua\nkerugian terkumpulnya, jika ada, telah dihapus kira sepenuhnya."
+        },
+        {
+          "nombor": "57(8)",
+          "teks": "(8) Walau apa pun subseksyen (7), suatu koperasi yang kerugian\nterkumpulnya telah tidak dihapus kira sepenuhnya boleh, dengan kelulusan\nSuruhanjaya, menggunakan untung bersih terauditnya untuk pembayaran\ndividen yang dalam mana-mana hal tidak boleh melebihi lima peratus jumlah\nsyer atau yuran anggota, atau kedua-duanya."
+        }
+      ],
+      "teks": "57. (1) Tiap-tiap koperasi hendaklah—\n       (a) menyenggara suatu Kumpulan Wang Rizab Statutori; dan\n       (b) sebelum mengisytiharkan apa-apa dividen daripada untung bersih\n           terauditnya bagi setiap tahun, selepas peruntukan yang wajar telah\n           dibuat bagi pencukaian, memindahkan kepada Kumpulan Wang\n          Rizab Statutorinya daripada untung bersih teraudit bagi setiap\n          tahun—\n           (i) suatu jumlah yang sama banyak dengan tidak kurang daripada\n               dua puluh lima peratus daripada untung bersih teraudit bagi\n               tahun itu, selagi amaun Kumpulan Wang Rizab Statutori itu\n               kurang daripada lima puluh peratus daripada syer dan\n               yurannya; atau\n          (ii) suatu jumlah yang sama banyak dengan tidak kurang daripada\n               lima belas peratus daripada untung bersih teraudit bagi tahun\n               itu, selagi amaun Kumpulan Wang Rizab Statutori itu adalah\n               lima puluh peratus tetapi kurang daripada seratus peratus\n               daripada syer dan yurannya.\n  (1A) Walau apa pun subseksyen (1), Suruhanjaya boleh dari semasa ke\nsemasa menentukan suatu bahagian berlainan daripada untung bersih teraudit\nbagi setiap tahun, iaitu sama ada kurang atau lebih daripada bahagian yang\nditentukan dalam subseksyen (1), untuk dipindahkan kepada Kumpulan Wang\nRizab Statutori sesuatu koperasi bagi maksud memastikan bahawa amaun\nKumpulan Wang Rizab Statutori bagi koperasi itu adalah mencukupi bagi\nmaksud perniagaannya dan memadai berhubung dengan liabiliti-liabilitinya.\n  (1B) Walau apa pun subseksyen (1), Kumpulan Wang Rizab Statutori boleh\ndigunakan—\n       (a) tertakluk pada peraturan-peraturan atau undang-undang kecil, bagi\n           membayar syer atau yuran yang dikeluarkan oleh anggota\n           koperasi; atau\n       (b) dengan kelulusan Suruhanjaya dan tertakluk pada apa-apa terma\n           dan syarat yang boleh dikenakan oleh Suruhanjaya, bagi\n           menerbitkan syer bonus kepada anggota koperasi itu.\n  (1C) Tiada apa pun dalam seksyen ini boleh memberi sesuatu koperasi\nkuasa untuk membayar dividen daripada Kumpulan Wang Rizab Statutori.\n  (1D) Kumpulan Wang Rizab Statutori tidak boleh dibahagi dan tiada\nseorang pun anggota berhak untuk menuntut suatu bahagian tertentu\ndaripadanya.\n  (1E) Kumpulan Wang Rizab Statutori hendaklah disenggara dalam suatu\nakaun yang berasingan dan hendaklah dilaburkan dalam Akaun Deposit\nKoperasi sebagaimana yang disebut dalam Akta Suruhanjaya Koperasi\n  (2) Tertakluk pada subseksyen (7), tiap-tiap koperasi hendaklah, daripada\nuntung bersih terauditnya bagi setiap tahun kewangan, sebelum\nmengisytiharkan apa-apa dividen membayar sekian jumlah wang yang\nditentukan oleh Suruhanjaya kepada—\n       (a) Kumpulan Wang Amanah Pendidikan Koperasi; dan\n       (b) Kumpulan Wang Amanah Pembangunan Koperasi bagi mana-\n           mana koperasi menengah atau atasan yang telah diisytiharkan oleh\n           Menteri sebagai badan yang mewakili pergerakan koperasi di\n           peringkat kebangsaan dan antarabangsa, yang ditubuhkan di bawah\n           peraturan-peraturan bagi memajukan prinsip koperasi.\n  (3) Tiada koperasi menengah atau atasan boleh diisytiharkan di bawah\nperenggan (2)(b) sebagai badan yang mewakili pergerakan koperasi di\nperingkat kebangsaan dan antarabangsa melainkan jika—\n       (a) matlamat koperasi itu termasuklah menggalakkan prinsip koperasi\n           dan memudahkan operasi koperasi; dan\n       (b) undang-undang kecil koperasi itu membuat peruntukan bagi—\n          (i) pergabungan semua koperas itanpa apa-apa sekatan atau\n              pembayaran apa-apa fi kecuali fi masuk; dan\n         (ii) pelantikan kepada Lembaganya, oleh Menteri, sekurang-\n              kurangnya seorang wakil daripada kementerian Menteri itu,\n              dan seorang wakil daripada Kementerian Kewangan.\n  (4) Bolehlah ditolak daripada jumlah yang disebut dalam subseksyen (1)\napa-apa jumlah wang yang dibayar menurut subseksyen (2).\n  (5) Tertakluk pada subseksyen (7), suatu koperasi boleh, selepas bayaran\nyang dinyatakan dalam subseksyen (1) dan (2), menggunakan untung bersih\nterauditnya bagi setiap tahun kewangan bagi semua atau mana-mana maksud\nyang berikut:\n       (a) pembayaran rebat kerana langganan;\n       (b) pembayaran dividen, atas syer dan yuran anggota koperasi\n           sebagaimana yang ditentukan oleh arahan atau garis panduan:\n            Dengan syarat bahawa, pembayaran dividen daripada mana-mana\n         sumber selain untung bersih teraudit bagi tahun kewangan itu tidak\n         boleh dibuat kecuali dengan mendapat kelulusan bertulis terlebih\n         dahulu daripada Suruhanjaya yang tidak boleh dalam mana-mana\n         hal melebihi apa-apa kadar maksimum sebagaimana yang\n         ditentukan dalam arahan atau garis panduan itu;\n       (c) pembayaran honorarium kepada anggota Lembaga koperasi itu,\n           yang tidak boleh, dalam apa-apa hal, melebihi jumlah wang yang\n           disyorkan oleh mesyuarat agung tahunan dan diluluskan oleh\n           Suruhanjaya; atau\n       (d) pembayaran untuk kebajikan anggotanya dan masyarakat.\n  (6) Tiada rebat kerana langganan, dividen atas syer dan yuran boleh\ndibayar kepada anggota suatu koperasi dan tiada honorarium boleh dibayar\nkepada anggota Lembaga suatu koperasi kecuali daripada untung bersih\nteraudit koperasi itu.\n  (7) Tiada koperasi boleh menggunakan untung bersihnya bagi apa-apa\nmaksud di bawah subseksyen (2) atau (5) melainkan jika dan sehingga semua\nkerugian terkumpulnya, jika ada, telah dihapus kira sepenuhnya.\n  (8) Walau apa pun subseksyen (7), suatu koperasi yang kerugian\nterkumpulnya telah tidak dihapus kira sepenuhnya boleh, dengan kelulusan\nSuruhanjaya, menggunakan untung bersih terauditnya untuk pembayaran\ndividen yang dalam mana-mana hal tidak boleh melebihi lima peratus jumlah\nsyer atau yuran anggota, atau kedua-duanya."
+    }
+  ]
+}
