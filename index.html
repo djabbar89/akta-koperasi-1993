@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rujukan Akta Koperasi 1993 (Akta 502)</title>
+  <!-- Nota: fail ini memuat data melalui fetch() — mesti diakses melalui
+       pelayan web (contoh: GitHub Pages atau `python -m http.server`),
+       bukan terus dengan double-klik fail (file://) -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ================= PENGAKAL (HEADER) ================= -->
+  <header class="pengekal">
+    <div class="bekas">
+      <h1 class="tajuk-utama">Rujukan Akta Koperasi 1993</h1>
+      <p class="subtajuk">Akta 502 &middot; Versi Muktamad 1.10.2021</p>
+
+      <!-- Penafian — WAJIB kekal di atas halaman -->
+      <div class="penafian" role="alert">
+        <strong>&#9888;&#65038; Penafian:</strong>
+        Aplikasi ini adalah <strong>rujukan tidak rasmi</strong>.
+        Sumber tunggal adalah Akta 502 (2021). Untuk tujuan undang-undang,
+        sila rujuk Suruhanjaya Koperasi Malaysia (SKM) atau peguam.
+      </div>
+    </div>
+  </header>
+
+  <!-- ================= KANDUNGAN UTAMA ================= -->
+  <main class="bekas">
+
+    <!-- ---------- Paparan utama: carian + senarai Bahagian ---------- -->
+    <div id="paparan-utama">
+
+      <!-- Kotak carian (instant semasa menaip) -->
+      <div class="kotak-carian">
+        <label for="input-carian" class="label-carian">
+          Carian seksyen atau kata kunci
+        </label>
+        <input
+          type="search"
+          id="input-carian"
+          class="input-carian"
+          placeholder="Contoh: 57 &nbsp;atau&nbsp; dividen &nbsp;atau&nbsp; mesyuarat"
+          autocomplete="off">
+        <!-- Keputusan carian dipapar di sini -->
+        <div id="hasil-carian" class="hasil-carian" hidden></div>
+      </div>
+
+      <!-- Senarai 10 Bahagian (accordion) — diisi oleh JavaScript -->
+      <h2 class="tajuk-seksyen-senarai">Susunan mengikut Bahagian</h2>
+      <div id="senarai-bahagian" class="senarai-bahagian">
+        <p class="memuatkan">Memuatkan data&hellip;</p>
+      </div>
+    </div>
+
+    <!-- ---------- Paparan satu seksyen (disembunyikan pada mula) ---------- -->
+    <article id="paparan-seksyen" class="paparan-seksyen" hidden>
+      <button id="butang-kembali" class="butang butang-kembali">
+        &larr; Kembali ke senarai
+      </button>
+
+      <h2 id="seksyen-tajuk" class="seksyen-tajuk"></h2>
+
+      <!-- Metadata: Bahagian, halaman PDF, status -->
+      <div id="seksyen-meta" class="seksyen-meta"></div>
+
+      <!-- Teks penuh seksyen (format asal dikekalkan) -->
+      <pre id="seksyen-teks" class="seksyen-teks"></pre>
+
+      <!-- Subseksyen (jika ada) — jana oleh JavaScript -->
+      <div id="seksyen-sub" class="seksyen-sub"></div>
+
+      <p class="rujukan-halaman" id="seksyen-halaman"></p>
+    </article>
+
+  </main>
+
+  <!-- ================= PENUTUP (FOOTER) ================= -->
+  <footer class="penutup">
+    <div class="bekas">
+      <p>
+        Sumber tunggal:
+        <code>docs/sumber/akta_koperasi-502-muktamad-1.10.2021.pdf</code>
+      </p>
+      <p class="penafian-kecil">
+        Rujukan tidak rasmi &mdash; tiada tafsiran undang-undang diberikan.
+      </p>
+    </div>
+  </footer>
+
+  <noscript>
+    <p style="text-align:center;padding:1rem;">
+      Aplikasi ini memerlukan JavaScript untuk berfungsi.
+    </p>
+  </noscript>
+
+  <script src="script.js"></script>
+</body>
+</html>

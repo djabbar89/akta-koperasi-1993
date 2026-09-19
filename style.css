@@ -1,0 +1,330 @@
+/* ============================================================
+   Rujukan Akta Koperasi 1993 (Akta 502) — Gaya
+   Tema: biru tua + putih (rasmi)
+   ============================================================ */
+
+/* ----- Pembolehubah warna ----- */
+:root {
+  --biru-tua:   #12325e;   /* biru tua utama (header)      */
+  --biru-seder: #1d4e89;   /* biru sederhana (aksen)       */
+  --biru-muda:  #eaf1f9;   /* latar biru sangat muda       */
+  --putih:      #ffffff;
+  --kelabu-teks:#333333;
+  --kelabu-muda:#f4f6f8;
+  --garis:      #d0d8e2;
+  --merah:      #a12622;   /* warna amaran / dipotong      */
+  --hijau:      #1e6b3a;   /* warna status aktif           */
+}
+
+/* ----- Asas ----- */
+* { box-sizing: border-box; }
+
+html { font-size: 16px; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+  color: var(--kelabu-teks);
+  background: var(--kelabu-muda);
+  line-height: 1.6;
+}
+
+/* Bekas tengah dengan lebar maksima — selesa dibaca */
+.bekas {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+code {
+  background: var(--biru-muda);
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* ----- Header ----- */
+.pengekal {
+  background: var(--biru-tua);
+  color: var(--putih);
+  padding: 1.75rem 0 1.25rem;
+}
+
+.tajuk-utama {
+  margin: 0;
+  font-size: 1.6rem;
+  letter-spacing: 0.3px;
+}
+
+.subtajuk {
+  margin: 0.25rem 0 1rem;
+  opacity: 0.85;
+  font-size: 0.95rem;
+}
+
+/* ----- Penafian ----- */
+.penafian {
+  background: #fff8e6;
+  color: #5a4500;
+  border-left: 4px solid #e0a800;
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  font-size: 0.92rem;
+}
+
+/* ----- Kotak carian ----- */
+.kotak-carian {
+  background: var(--putih);
+  border: 1px solid var(--garis);
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+.label-carian {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--biru-tua);
+}
+
+.input-carian {
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  font-size: 1.05rem;
+  border: 2px solid var(--biru-seder);
+  border-radius: 6px;
+  outline: none;
+}
+
+.input-carian:focus {
+  border-color: var(--biru-tua);
+  box-shadow: 0 0 0 3px rgba(29, 78, 137, 0.15);
+}
+
+/* ----- Hasil carian ----- */
+.hasil-carian {
+  margin-top: 0.75rem;
+  border-top: 1px dashed var(--garis);
+  padding-top: 0.5rem;
+}
+
+.hasil-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--kelabu-muda);
+  padding: 0.55rem 0.35rem;
+  font-size: 0.98rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.hasil-item:hover { background: var(--biru-muda); }
+
+.hasil-item .lencana {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.05rem 0.45rem;
+  border-radius: 10px;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.lencana-pasti { background: var(--biru-seder); color: var(--putih); }
+.lencana-kata  { background: var(--kelabu-muda); color: var(--kelabu-teks); }
+
+.tiada-hasil {
+  padding: 0.5rem 0.35rem;
+  color: #666;
+  font-style: italic;
+}
+
+/* ----- Senarai Bahagian (accordion) ----- */
+.tajuk-seksyen-senarai {
+  color: var(--biru-tua);
+  font-size: 1.15rem;
+  border-bottom: 2px solid var(--biru-seder);
+  padding-bottom: 0.3rem;
+}
+
+.senarai-bahagian details {
+  background: var(--putih);
+  border: 1px solid var(--garis);
+  border-radius: 8px;
+  margin-bottom: 0.6rem;
+  overflow: hidden;
+}
+
+.senarai-bahagian summary {
+  cursor: pointer;
+  padding: 0.8rem 1rem;
+  font-weight: 600;
+  color: var(--biru-tua);
+  list-style: none;
+  position: relative;
+}
+
+.senarai-bahagian summary::after {
+  content: "\25BC";          /* anak panah ke bawah */
+  position: absolute;
+  right: 1rem;
+  font-size: 0.8rem;
+  transition: transform 0.2s;
+}
+
+.senarai-bahagian details[open] summary::after {
+  transform: rotate(180deg);
+}
+
+.senarai-bahagian summary:hover { background: var(--biru-muda); }
+
+.bilangan-seksyen {
+  font-weight: 400;
+  color: #667;
+  font-size: 0.85rem;
+}
+
+/* ----- Butang seksyen dalam Bahagian ----- */
+.butang-seksyen {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: none;
+  border: none;
+  border-top: 1px solid var(--kelabu-muda);
+  padding: 0.55rem 1rem;
+  font-size: 0.95rem;
+  text-align: left;
+  cursor: pointer;
+}
+
+.butang-seksyen:hover { background: var(--biru-muda); }
+
+.butang-seksyen .nombor {
+  font-weight: 700;
+  color: var(--biru-seder);
+  min-width: 3rem;
+}
+
+.butang-seksyen .tajuk { flex: 1; }
+
+/* ----- Lencana status ----- */
+.lencana-status {
+  font-size: 0.72rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+
+.lencana-dipotong { background: #fbe4e4; color: var(--merah); }
+.lencana-aktif    { background: #e2f2e8; color: var(--hijau); }
+
+/* ----- Paparan satu seksyen ----- */
+.paparan-seksyen {
+  background: var(--putih);
+  border: 1px solid var(--garis);
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.butang {
+  background: var(--biru-seder);
+  color: var(--putih);
+  border: none;
+  border-radius: 6px;
+  padding: 0.55rem 1rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.butang:hover { background: var(--biru-tua); }
+
+.seksyen-tajuk {
+  color: var(--biru-tua);
+  margin: 1rem 0 0.5rem;
+  font-size: 1.3rem;
+}
+
+.seksyen-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.meta-item {
+  background: var(--biru-muda);
+  color: var(--biru-tua);
+  font-size: 0.85rem;
+  padding: 0.2rem 0.7rem;
+  border-radius: 12px;
+}
+
+/* Teks seksyen — pre-wrap mengekalkan format asal */
+.seksyen-teks {
+  font-family: inherit;
+  font-size: 1rem;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  background: var(--kelabu-muda);
+  border: 1px solid var(--garis);
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 0;
+}
+
+/* ----- Subseksyen ----- */
+.seksyen-sub h3 {
+  color: var(--biru-tua);
+  font-size: 1.05rem;
+  margin: 1.25rem 0 0.4rem;
+}
+
+.subseksyen-item {
+  border-left: 3px solid var(--biru-seder);
+  padding: 0.5rem 0.9rem;
+  margin-bottom: 0.6rem;
+  background: var(--putih);
+}
+
+.subseksyen-item .sub-nombor {
+  font-weight: 700;
+  color: var(--biru-seder);
+}
+
+.subseksyen-teks {
+  white-space: pre-wrap;
+  font-size: 0.95rem;
+}
+
+/* ----- Rujukan halaman ----- */
+.rujukan-halaman {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  color: #667;
+}
+
+/* ----- Footer ----- */
+.penutup {
+  background: var(--biru-tua);
+  color: var(--putih);
+  padding: 1.25rem 0;
+  margin-top: 2rem;
+  font-size: 0.85rem;
+}
+
+.penutup code { background: rgba(255,255,255,0.15); color: var(--putih); }
+
+.penafian-kecil { opacity: 0.75; margin: 0.25rem 0 0; }
+
+/* ----- Responsif: telefon ----- */
+@media (max-width: 600px) {
+  .tajuk-utama { font-size: 1.3rem; }
+  .seksyen-teks { font-size: 0.95rem; padding: 0.75rem; }
+  .butang-seksyen .tajuk { font-size: 0.9rem; }
+}
